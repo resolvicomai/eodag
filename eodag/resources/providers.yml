@@ -7554,6 +7554,7 @@
       _collection: SENTINEL-5P
     GENERIC_COLLECTION:
       _collection: '{collection}'
+---
 !provider # MARK: theia
   name: theia
   priority: 0
