@@ -3050,34 +3050,34 @@
       sat:orbit_state:
         - '{{"orbitDirection": "{sat:orbit_state}"}}'
         - '$.null'
-      variable:
+      wekeo_main:variable:
         - '{{"variable": "{variable}"}}'
         - '$.null'
-      system:
+      wekeo_main:system:
         - '{{"system": "{system}"}}'
         - '$.null'
-      version:
+      wekeo_main:version:
         - '{{"version": {version}}}'
         - '$.null'
-      region:
+      wekeo_main:region:
         - '{{"region": {region}}}'
         - '$.null'
-      type:
+      wekeo_main:type:
         - '{{"type": "{type}"}}'
         - '$.null'
-      source:
+      wekeo_main:source:
         - '{{"source": {source}}}'
         - '$.null'
-      model:
+      wekeo_main:model:
         - '{{"model": {model}}}'
         - '$.null'
-      level:
+      wekeo_main:level:
         - '{{"level": {level}}}'
         - '$.null'
-      step:
+      wekeo_main:step:
         - '{{"step": {step}}}'
         - '$.null'
-      satellite:
+      wekeo_main:satellite:
         - '{{"satellite": {satellite}}}'
         - '$.null'
   products:
